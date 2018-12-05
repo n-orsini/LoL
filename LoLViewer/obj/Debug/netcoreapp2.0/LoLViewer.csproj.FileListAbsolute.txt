@@ -1,0 +1,12 @@
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\LoLViewer.deps.json
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\LoLViewer.runtimeconfig.json
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\LoLViewer.runtimeconfig.dev.json
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\LoLViewer.dll
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netcoreapp2.0\LoLViewer.pdb
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.csprojAssemblyReference.cache
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.csproj.CoreCompileInputs.cache
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.AssemblyInfoInputs.cache
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.AssemblyInfo.cs
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.dll
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netcoreapp2.0\LoLViewer.pdb

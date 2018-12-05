@@ -16,3 +16,4 @@ C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netstandard2.0\LoLViewer.A
 C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netstandard2.0\LoLViewer.AssemblyInfo.cs
 C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netstandard2.0\LoLViewer.dll
 C:\Users\norsini.HQ\Documents\LoL\LoLViewer\obj\Debug\netstandard2.0\LoLViewer.pdb
+C:\Users\norsini.HQ\Documents\LoL\LoLViewer\bin\Debug\netstandard2.0\appsettings.json
